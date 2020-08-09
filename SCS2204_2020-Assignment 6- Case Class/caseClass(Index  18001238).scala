@@ -12,7 +12,7 @@ case class Point(x : Int , y : Int)
 
 
 }
-object case_class extends App {
+object caseClass extends App {
 
   val X = Point(10,20)
   val Y = Point(100,200)
